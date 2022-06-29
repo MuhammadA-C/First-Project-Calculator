@@ -1,0 +1,16 @@
+/Users/muhammadchambers/Desktop/GitHub/First-Project-Calculator/bin/Debug/net5.0/Calculator-Project
+/Users/muhammadchambers/Desktop/GitHub/First-Project-Calculator/bin/Debug/net5.0/Calculator-Project.deps.json
+/Users/muhammadchambers/Desktop/GitHub/First-Project-Calculator/bin/Debug/net5.0/Calculator-Project.runtimeconfig.json
+/Users/muhammadchambers/Desktop/GitHub/First-Project-Calculator/bin/Debug/net5.0/Calculator-Project.runtimeconfig.dev.json
+/Users/muhammadchambers/Desktop/GitHub/First-Project-Calculator/bin/Debug/net5.0/Calculator-Project.dll
+/Users/muhammadchambers/Desktop/GitHub/First-Project-Calculator/bin/Debug/net5.0/Calculator-Project.pdb
+/Users/muhammadchambers/Desktop/GitHub/First-Project-Calculator/obj/Debug/net5.0/Calculator-Project.csproj.AssemblyReference.cache
+/Users/muhammadchambers/Desktop/GitHub/First-Project-Calculator/obj/Debug/net5.0/Calculator-Project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muhammadchambers/Desktop/GitHub/First-Project-Calculator/obj/Debug/net5.0/Calculator-Project.AssemblyInfoInputs.cache
+/Users/muhammadchambers/Desktop/GitHub/First-Project-Calculator/obj/Debug/net5.0/Calculator-Project.AssemblyInfo.cs
+/Users/muhammadchambers/Desktop/GitHub/First-Project-Calculator/obj/Debug/net5.0/Calculator-Project.csproj.CoreCompileInputs.cache
+/Users/muhammadchambers/Desktop/GitHub/First-Project-Calculator/obj/Debug/net5.0/Calculator-Project.dll
+/Users/muhammadchambers/Desktop/GitHub/First-Project-Calculator/obj/Debug/net5.0/refint/Calculator-Project.dll
+/Users/muhammadchambers/Desktop/GitHub/First-Project-Calculator/obj/Debug/net5.0/Calculator-Project.pdb
+/Users/muhammadchambers/Desktop/GitHub/First-Project-Calculator/obj/Debug/net5.0/Calculator-Project.genruntimeconfig.cache
+/Users/muhammadchambers/Desktop/GitHub/First-Project-Calculator/obj/Debug/net5.0/ref/Calculator-Project.dll
